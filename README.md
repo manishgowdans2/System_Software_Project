@@ -9,7 +9,7 @@ Linking is performed at both compile time, when source code is translated to mac
   
 `Source Code->Compiler->Assembler->Object code->Linker->Executable File->Loader`
 
-![system](https://github.com/manishgowdans2/System_Software_Project/blob/master/readme_images/Linker.png)
+![system](https://github.com/manishgowdans2/System_Software_Project/blob/master/readme_images/Linker.png?raw=true)
 
 ## Pass 1 
 In the first pass, the linker/loader reads the object files and creates an intermediate representation of the program, often called the symbol table or external symbol table. This table contains information about external symbols, their addresses, and lengths.
